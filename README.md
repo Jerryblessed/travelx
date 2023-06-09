@@ -4,7 +4,7 @@ A [customizable](/config/template_config.toml), [multilanguage](/strings) Telegr
 
 ## Demo
 
-Send a message to [@cusms](https://t.me/greedtestbot) on Telegram to view a demo of the bot in action!
+Send a message to [@cusms](https://t.me/cusms_bot) on Telegram to view a demo of the bot in action!
 
 Use the special credit card number `4242 4242 4242 4242` to add unlimited credit to your account. 
 
