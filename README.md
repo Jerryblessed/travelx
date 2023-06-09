@@ -1,21 +1,23 @@
-# Greed
+# SeamlessTravelx
 
-A [customizable](/config/template_config.toml), [multilanguage](/strings) Telegram shop bot with [Telegram Payments support](https://core.telegram.org/bots/payments)!  
+A [customizable](/config/template_config.toml), [multilanguage](/strings) Telegram travel bot with digital wallet features and [Telegram Payments support](https://core.telegram.org/bots/payments)!  
 
 ## Demo
 
-Send a message to [@greedtestbot](https://t.me/greedtestbot) on Telegram to view a demo of the bot in action!
+Send a message to [@cusms](https://t.me/greedtestbot) on Telegram to view a demo of the bot in action!
 
 Use the special credit card number `4242 4242 4242 4242` to add unlimited credit to your account. 
 
 ## Screenshots
 
-![](https://i.imgur.com/FdT2tRV.png)
+![](https://i.ibb.co/DpsP5bD/travelx-logo-puc.jpg)
+seamlessTravelx
 
-![](https://i.imgur.com/rDYWdUB.png)
+![](https://i.ibb.co/CzCL8wg/Screenshot-8.png)
+user interface
 
-![](https://i.imgur.com/9plMzO6.png)
-
+![](https://i.ibb.co/PThhsSn/Screenshot-10.png)
+flight agent interface
 ## Installation via Docker
 
 This installation procedure assumes you are on a system with `docker` installed, with a supported CPU architecture.
@@ -265,7 +267,7 @@ Users will be able to add credit to their wallet, place orders and contact you i
 
 ## Documentation and help
 
-If you find a bug, have an idea for a new feature or just require help with `greed`, please [post an issue](https://github.com/Steffo99/greed/issues/new) or [open a discussion](https://github.com/Steffo99/greed/discussions/new) on GitHub, or, if GitHub is blocked in your country, send me an email at [ste.pigozzi@gmail.com](mailto:ste.pigozzi@gmail.com)!
+If you find a bug, have an idea for a new feature or just require help, please [post an issue](https://github.com/Jerryblessed/travelx/issue) or [open a discussion](https://github.com/Jerryblessed/travelx/discussions/new) on GitHub, or, if GitHub is blocked in your country, send me an email at [jeremiah.ope@stu.cu.edu.ng](mailto:https://github.com/Jerryblessed/travelx)!
 
 If you can read Italian, you can try to read the [paper](https://docs.google.com/document/d/1f4MKVr0B7RSQfWTSa_6ZO0LM4nPpky_GX_qdls3EHtQ/edit?usp=sharing) I wrote about greed for my final High School exam.
 
@@ -273,10 +275,10 @@ If you are proficient in Python, you can also try reading the code. Most of the 
 
 ## Forks
 
-Some people made a copy of Greed and added or changed some things to it (they made a _fork_).  
+Some people made a copy of framework and added or changed some things to it (they made a _fork_).  
 These forks are listed below.
 
-> Please note that @Steffo99, the main developer of `greed`, does not endorse any of these forks.  
+> Please note that @Steffo99, the main developer of the framework, does not endorse any of these forks.  
 > **Do not file bug reports here for bugs in a fork!**
 
 ### Bitcoin - Blockonomics
